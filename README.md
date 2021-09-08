@@ -2,7 +2,7 @@
 В репозитории находятся материалы и домашние задания по семинарам "ММРО 2021/2022"
 
 <p align="center">
-<img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://github.com/mmp-mmro-team/mmp_mmro_spring_2020/blob/master/trash/kernel_trick.jpg" height=200pt>
+<img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/trash/kernel_trick.jpg" height=200pt>
 </p>
 
 :white_check_mark: **Курс сдается через систему [anytask](https://anytask.org/course/846). Инвайт можете получить у преподавателя**
