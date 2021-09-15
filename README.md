@@ -7,7 +7,7 @@
 
 :white_check_mark: **Курс сдается через систему [anytask](https://anytask.org/course/846). Инвайт можете получить у преподавателя**
 
-:white_check_mark: На семинары и работу ассистентов можно оставить отзыв: скоро будет ссыль
+:white_check_mark: На семинары и работу ассистентов можно [оставить отзыв](https://docs.google.com/forms/d/e/1FAIpQLSeCww7kQZRBbPDFW_dTRpKdBl1pL0jx4nezhciAof8b22O05Q/viewform)
 
 :white_check_mark: **Полезные ссылки:**
 
