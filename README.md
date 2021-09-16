@@ -50,4 +50,4 @@
 
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
-| 13 сентября  | Семинар 1  | Вводная лекция. Основы Pandas | [Ноутбук по pandas](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem01-pandas.ipynb) | ¯\\\_(ツ)\_/¯ |
+| 13 сентября  | Семинар 1  | Вводная лекция. Основы Pandas | [Ноутбук по pandas](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem01-pandas.ipynb) | [Домашка по pandas, numpy, matplotlib](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/numpy-pandas-matplotlib.ipynb) |
