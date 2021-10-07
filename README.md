@@ -53,5 +53,7 @@
 | 13 сентября  | Семинар 1 | Вводная лекция. Основы Pandas | [Ноутбук по pandas](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem01-pandas.ipynb) | [Прак.1 Pandas, numpy, matplotlib](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/numpy-pandas-matplotlib.ipynb) |
 | 20 сентября  | Семинар 2 | Быстрый поиск ближайших соседей | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture20-knn.pdf)</li><li>[Записи с лекций](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/seminars/sem02/knn.pdf)</li></ul>|  ¯\\\_(ツ)\_/¯ |
 | 27 сентября  | Семинар 3 | Особенности knn и разновидности метрик | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem19-knn.pdf)|  ¯\\\_(ツ)\_/¯ |
+| 4 октября | Семинар 4 | Sklearn и особенности линейной регрессии | [Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb) | Прак.2 |
+| 11 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem05_vect_matrix_diff.pdf) | ¯\\\_(ツ)\_/¯ |
 
 
