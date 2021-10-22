@@ -55,5 +55,5 @@
 | 27 сентября  | Семинар 3 | Особенности knn и разновидности метрик | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem19-knn.pdf)|  ¯\\\_(ツ)\_/¯ |
 | 4 октября | Семинар 4 | Sklearn и особенности линейной регрессии | [Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem02-sklearn-linregr.ipynb) | [Прак.2 Линейная регрессия, исследовательский анализ данных](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/homework-practice-02-linregr.ipynb) |
 | 11 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem05_vect_matrix_diff.pdf) | ¯\\\_(ツ)\_/¯ |
-| 18 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | ? |
+| 18 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | [Теор.1 Матричное дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-theory/matr_diff.pdf) |
 
