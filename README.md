@@ -57,7 +57,7 @@
 | 11 октября | Семинар 5 | Векторное дифференцирование | [Хороший cheat sheet по дифференцированию](https://github.com/mmp-mmro-team/mmp_mmro_fall_2020/blob/master/seminars/sem05_vect_matrix_diff.pdf) | ¯\\\_(ツ)\_/¯ |
 | 18 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | [Теор.1 Матричное дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-theory/matr_diff.pdf) |
 | 25 октября | Семинар 7 | Условная оптимизация, теорема ККТ | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem13-kkt.pdf)</li><li>[Заметки о решении задачи условной оптимизации](https://raw.githubusercontent.com/mmp-mmro-team/mmp_mmro_fall_2019/master/lecture-notes/Sem11_conditional_optimization.pdf)</li><ul> | ¯\\\_(ツ)\_/¯  |
-| 1 ноября | Семинар 8 | Ядровые обобщения методов, задачи на ядра | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem14-kernels.pdf) | ¯\\\_(ツ)\_/¯  | 
+| 1 ноября | Семинар 8 | Ядровые обобщения методов, задачи на ядра | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem14-kernels.pdf) | [Прак.3 SVM и логистическая регрессия](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/hw-practice-03-svm-linclass.ipynb)  | 
 
    
 
