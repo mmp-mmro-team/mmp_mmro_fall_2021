@@ -58,7 +58,10 @@
 | 18 октября | Семинар 6 | Логистическая регрессия: оценивание вероятностей и вывод функционала | [Семинар (раздел 1)](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf) | [Теор.1 Матричное дифференцирование](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-theory/matr_diff.pdf) |
 | 25 октября | Семинар 7 | Условная оптимизация, теорема ККТ | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem13-kkt.pdf)</li><li>[Заметки о решении задачи условной оптимизации](https://raw.githubusercontent.com/mmp-mmro-team/mmp_mmro_fall_2019/master/lecture-notes/Sem11_conditional_optimization.pdf)</li><ul> | ¯\\\_(ツ)\_/¯  |
 | 1 ноября | Семинар 8 | Ядровые обобщения методов, задачи на ядра | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/seminars/sem14-kernels.pdf) | [Прак.3 SVM и логистическая регрессия](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/hw-practice-03-svm-linclass.ipynb)  | 
-| 8 ноября | Семинар 9 | Метрики качества классификации, задачи на площади под кривыми | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf) | ¯\\\_(ツ)\_/¯ | 
+| 8 ноября | Семинар 9 | Метрики качества классификации, задачи на площади под кривыми | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf) | ¯\\\_(ツ)\_/¯ |
+| 15 ноября | Семинар 10 | Вывод критериев информативности для деревьев, разглядывание картинок про деревья | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)</li><li>[Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb)</li></ul>| ¯\\\_(ツ)\_/¯ |
+| 22 ноября | Семинар 11 | Разложение ошибки на смещение и разброс | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) | [Прак.4 BVD + град. бустинг](todo) |
+   
 
    
 
