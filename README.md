@@ -61,7 +61,8 @@
 | 8 ноября | Семинар 9 | Метрики качества классификации, задачи на площади под кривыми | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2021-fall/seminars/sem05-linclass-metrics.pdf) | ¯\\\_(ツ)\_/¯ |
 | 15 ноября | Семинар 10 | Вывод критериев информативности для деревьев, разглядывание картинок про деревья | <ul><li>[Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.pdf)</li><li>[Ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem07-trees.ipynb)</li></ul>| ¯\\\_(ツ)\_/¯ |
 | 22 ноября | Семинар 11 | Разложение ошибки на смещение и разброс | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture08-ensembles.pdf) | [Прак.4 BVD + град. бустинг](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/homework-practice/hw-practice-4.ipynb) |
-   
+| 29 ноября | Семинар 12 | Градиентный бустинг | [Семинар](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/seminars/sem09-gbm-part1.pdf) | ¯\\\_(ツ)\_/¯ |
+
 
    
 
